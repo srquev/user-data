@@ -69,31 +69,15 @@
                 },
                 {
                     "id": 234,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
+                    "description": " e blanck space around the pool.",
                     "currentStatus": "blocked",
                     "todo": 0,
                     "estimated": 0,
                     "blockedBy": "Server Down"
                 },
-                {
+                 {
                     "id": 234,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
-                    "currentStatus": "yetToStart",
-                    "todo": 6,
-                    "estimated": 6,
-                    "blockedBy": ""
-                },
-                {
-                    "id": 234,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
-                    "currentStatus": "yetToStart",
-                    "todo": 6,
-                    "estimated": 6,
-                    "blockedBy": ""
-                },
-                {
-                    "id": 234,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
+                    "description": " clicking in the bin the blanck space around the pool.",
                     "currentStatus": "yetToStart",
                     "todo": 6,
                     "estimated": 6,
@@ -116,7 +100,7 @@
             "task": [
                 {
                     "id": 234,
-                    "description": "Rename the diagram into Request management by clicking in the blanck space around the pool.",
+                    "description": "Rename the diagram in",
                     "currentStatus": "in progress",
                     "todo": 4,
                     "estimated": 6,
@@ -124,7 +108,7 @@
                 },
                 {
                     "id": 234,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
+                    "description": " clicking in the blapool.",
                     "currentStatus": "blocked",
                     "todo": 0,
                     "estimated": 0,
@@ -132,33 +116,9 @@
                 },
                 {
                     "id": 234,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
+                    "description": " e around the pool.",
                     "currentStatus": "yetToStart",
                     "todo": 6,
-                    "estimated": 6,
-                    "blockedBy": ""
-                },
-                {
-                    "id": 234,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
-                    "currentStatus": "yetToStart",
-                    "todo": 6,
-                    "estimated": 6,
-                    "blockedBy": ""
-                },
-                {
-                    "id": 234,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
-                    "currentStatus": "yetToStart",
-                    "todo": 6,
-                    "estimated": 6,
-                    "blockedBy": ""
-                },
-                {
-                    "id": 23774,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
-                    "currentStatus": "completed",
-                    "todo": 0,
                     "estimated": 6,
                     "blockedBy": ""
                 }
@@ -180,14 +140,6 @@
                 {
                     "id": 234,
                     "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
-                    "currentStatus": "blocked",
-                    "todo": 0,
-                    "estimated": 0,
-                    "blockedBy": "Server Down"
-                },
-                {
-                    "id": 234,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
                     "currentStatus": "yetToStart",
                     "todo": 6,
                     "estimated": 6,
@@ -195,25 +147,9 @@
                 },
                 {
                     "id": 234,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
+                    "description": " k space around the pool.",
                     "currentStatus": "yetToStart",
                     "todo": 6,
-                    "estimated": 6,
-                    "blockedBy": ""
-                },
-                {
-                    "id": 234,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
-                    "currentStatus": "yetToStart",
-                    "todo": 6,
-                    "estimated": 6,
-                    "blockedBy": ""
-                },
-                {
-                    "id": 23774,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
-                    "currentStatus": "completed",
-                    "todo": 0,
                     "estimated": 6,
                     "blockedBy": ""
                 }
@@ -233,7 +169,7 @@
                 },
                 {
                     "id": 234,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
+                    "description": " clicking in the blanck Ren the blanck space around the pool.",
                     "currentStatus": "blocked",
                     "todo": 0,
                     "estimated": 0,
@@ -246,31 +182,8 @@
                     "todo": 6,
                     "estimated": 6,
                     "blockedBy": ""
-                },
-                {
-                    "id": 234,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
-                    "currentStatus": "yetToStart",
-                    "todo": 6,
-                    "estimated": 6,
-                    "blockedBy": ""
-                },
-                {
-                    "id": 234,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
-                    "currentStatus": "yetToStart",
-                    "todo": 6,
-                    "estimated": 6,
-                    "blockedBy": ""
-                },
-                {
-                    "id": 23774,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
-                    "currentStatus": "completed",
-                    "todo": 0,
-                    "estimated": 6,
-                    "blockedBy": ""
                 }
+               
             ],
             "temp": "#E2583E"
         },
@@ -317,15 +230,8 @@
                     "todo": 6,
                     "estimated": 6,
                     "blockedBy": ""
-                },
-                {
-                    "id": 23774,
-                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
-                    "currentStatus": "completed",
-                    "todo": 0,
-                    "estimated": 6,
-                    "blockedBy": ""
                 }
+                
             ],
             "temp": "#53B0AE"
         }
