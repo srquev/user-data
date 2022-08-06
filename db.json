@@ -1,23 +1,88 @@
 {
-    "glossary": {
-        "title": "Sharique example glossary",
-		"GlossDiv": {
-            "title": "S",
-			"GlossList": {
-                "GlossEntry": {
-                    "ID": "SGML",
-					"SortAs": "SGML",
-					"GlossTerm": "Standard Generalized Markup Language",
-					"Acronym": "SGML",
-					"Abbrev": "ISO 8879:1986",
-					"GlossDef": {
-                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
-						"GlossSeeAlso": ["GML", "XML"]
-                    },
-					"GlossSee": "markup"
+    "data": [
+        {
+            "id": 1,
+            "name": "cerulean",
+            "task": [
+                {
+                    "id": 234,
+                    "description": "Rename the diagram into Request management by clicking in the blanck space around the pool.",
+                    "currentStatus": "in progress",
+                    "todo": 4,
+                    "estimated": 6,
+                    "blockedBy": ""
+                },
+                {
+                    "id": 234,
+                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
+                    "currentStatus": "blocked",
+                    "todo": 0,
+                    "estimated": 0,
+                    "blockedBy": "Server Down"
+                },
+                {
+                    "id": 234,
+                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
+                    "currentStatus": "yetToStart",
+                    "todo": 6,
+                    "estimated": 6,
+                    "blockedBy": ""
+                },
+                {
+                    "id": 234,
+                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
+                    "currentStatus": "yetToStart",
+                    "todo": 6,
+                    "estimated": 6,
+                    "blockedBy": ""
+                },
+                {
+                    "id": 234,
+                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
+                    "currentStatus": "yetToStart",
+                    "todo": 6,
+                    "estimated": 6,
+                    "blockedBy": ""
+                },
+                {
+                    "id": 23774,
+                    "description": " clicking in the blanck Rename the diagram into Request management by clicking in the blanck space around the pool.",
+                    "currentStatus": "completed",
+                    "todo": 0,
+                    "estimated": 6,
+                    "blockedBy": ""
                 }
-            }
+            ],
+            "temp": "#98B2D1"
+        },
+        {
+            "id": 2,
+            "name": "fuchsia rose",
+            "task": 2001,
+            "temp": "#C74375"
+        },
+        {
+            "id": 3,
+            "name": "true red",
+            "task": 2002,
+            "temp": "#BF1932"
+        },
+        {
+            "id": 4,
+            "name": "aqua sky",
+            "task": 2003,
+            "temp": "#7BC4C4"
+        },
+        {
+            "id": 5,
+            "task": 2004,
+            "temp": "#E2583E"
+        },
+        {
+            "id": 6,
+            "name": "blue turquoise",
+            "task": 2005,
+            "temp": "#53B0AE"
         }
-    }
+    ]
 }
-
